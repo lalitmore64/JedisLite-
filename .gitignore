@@ -1,0 +1,17 @@
+target/
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Exclude README
+README.md
+
+# Database snapshots
+*.rdb
+*.rdb.tmp
+dump.rdb
